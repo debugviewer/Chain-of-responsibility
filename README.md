@@ -14,7 +14,7 @@
 
 # 2. 实现
 
-![责任链模式](../img/chain-of-responsibility.png)
+![责任链模式](img/chain-of-responsibility.png)
 
 责任链模式结构重要核心模块：
 
